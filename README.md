@@ -1,16 +1,16 @@
 ![logo](https://github.com/KamranTheDev/KamranTheDev/blob/main/github%20banner.png)
 <h1 align="center">AOA👋, I'm Kamran Majeed</h1>
-<h3 align="center">A passionate MERN stack developer from Pakistan</h3>
+<h3 align="center">A passionate MERN stack developer, Prompt Engineer and Agentic AI learner from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranthedev&label=Profile%20views&color=0e75b6&style=flat" alt="kamranthedev" /> </p>
 
-- 🔭 I’m currently working on **React and Nodejs**
+- 🔭 I’m currently working on **React, Nodejs , Prompt Engineering and Agentic AI **
 
-- 🌱 I’m currently learning **Next.js and Python**
+- 🌱 I’m currently learning **Next.js , Python and Agentic AI**
 
-- 💬 Ask me about **React , Node , Express , MongoDB , C++ ,Python**
+- 💬 Ask me about **React , Node , Express , MongoDB , C++ ,Python, Prompt Engineering , Agentic AI**
 
 - 📫 How to reach me 👉 **https://www.linkedin.com/in/kamran-majeed-8b4bb9318/**
 
