@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Next.js , Python and Agentic AI**
 
-- 💬 Ask me about **React , Node , Express , MongoDB , C++ ,Python, Prompt Engineering , Agentic AI**
+- 💬 Ask me about **React , Node , Express , MongoDB , C++ , Python , Prompt Engineering , Agentic AI**
 
 - 📫 How to reach me 👉 **https://www.linkedin.com/in/kamran-majeed-8b4bb9318/**
 
 - ⚡ Fun fact **I am funny😆**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me for further discussion:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamran majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamran majeed" height="30" width="40" /></a>
 <a href="https://fb.com/kamran majeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamran majeed" height="30" width="40" /></a>
