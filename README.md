@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranthedev&label=Profile%20views&color=0e75b6&style=flat" alt="kamranthedev" /> </p>
 
-- 🔭 I’m currently working on **React, Nodejs , Prompt Engineering and Agentic AI **
+- 🔭 I’m currently working on **React, Nodejs , mongodb , Prompt Engineering and Agentic AI **
 
 - 🌱 I’m currently learning **Next.js , Python and Agentic AI**
 
