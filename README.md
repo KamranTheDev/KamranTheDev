@@ -1,6 +1,7 @@
 ![logo](https://github.com/KamranTheDev/KamranTheDev/blob/main/github%20banner.png)
 <h1 align="center">AOA👋, I'm Kamran Majeed</h1>
 <h3 align="center">A passionate MERN stack developer, Prompt Engineer and Agentic AI learner from Pakistan</h3>
+<h3 align="center">I don't just write code — I build complete web solutions that solve real problems. 💻⚡</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
